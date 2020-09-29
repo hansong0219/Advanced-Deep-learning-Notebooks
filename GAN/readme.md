@@ -20,7 +20,8 @@ GAN 의 원리나 기본 개념은 단순하나 가장 어려운 부분은 생�
 초기 심층 CNN 을 이용하여 GAN 을 성공적으로 구현한 사례이다. 
 
 - MNIST
-- Building
+- LSUN
+
 - Pix2pix (복잡한 모델이지만 기본적인 형태는 DCGAN에 가깝다고 할 수 있다.)
 
 ## CGAN (Conditional GAN)
