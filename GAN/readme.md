@@ -19,5 +19,11 @@ GAN 의 원리나 기본 개념은 단순하나 가장 어려운 부분은 생�
 ## DCGAN 
 초기 심층 CNN 을 이용하여 GAN 을 성공적으로 구현한 사례이다. 
 
+- MNIST
+- Building
+- Pix2pix
+
 ## CGAN (Conditional GAN)
 DCGAN 과 다르게 어떤 숫자를 생성할지 제어하는 형태의 GAN 이다.
+
+- MNIST
