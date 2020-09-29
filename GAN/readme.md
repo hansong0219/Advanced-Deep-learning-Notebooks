@@ -21,7 +21,7 @@ GAN 의 원리나 기본 개념은 단순하나 가장 어려운 부분은 생�
 
 - MNIST
 - Building
-- Pix2pix
+- Pix2pix (복잡한 모델이지만 기본적인 형태는 DCGAN에 가깝다고 할 수 있다.)
 
 ## CGAN (Conditional GAN)
 DCGAN 과 다르게 어떤 숫자를 생성할지 제어하는 형태의 GAN 이다.
