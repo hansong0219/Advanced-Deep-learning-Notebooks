@@ -29,5 +29,11 @@ Auto Encoder, Generation Model, GAN
 
 ## Aproved GAN 
 - WGAN (개선 진행중)
-- SRGAN (작업중)
+- LSGAN (작업중)
 - ACGAN (작업중)
+
+## Image Application with GAN
+- Age-cGAN
+- Pix2Pix
+- SRGAN
+- CycleGAN
