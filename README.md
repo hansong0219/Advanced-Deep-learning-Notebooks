@@ -21,6 +21,10 @@ Auto Encoder, Generation Model, GAN
 ## Auto Encoder
 - 노이즈 제거
 - 채색 오토 인코더
+- VAE(변분 오토 인코더)
+
+## UNET 
+- Image Segmentation with UNET
 
 ## GAN 
 - DCGAN
