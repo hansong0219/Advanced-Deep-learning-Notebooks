@@ -24,20 +24,20 @@ Auto Encoder, Generation Model, GAN
 - VAE(변분 오토 인코더)
 
 ## UNET 
-- Image Segmentation with UNET
+- Image Translation UNET (data set 을 찾는중)
 
 ## GAN 
 - DCGAN
 - Conditional GAN (CGAN)
-- 3D GAN
+- 3D GAN (작업중)
 
 ## Aproved GAN 
 - WGAN (개선 진행중)
 - LSGAN (작업중)
 - ACGAN (작업중)
 
-## Image Application with GAN
-- Age-cGAN
+## Image Application with GAN (진행예정)
+- Age-cGAN 
 - Pix2Pix
 - SRGAN
 - CycleGAN
