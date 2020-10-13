@@ -30,7 +30,7 @@ Auto Encoder, Generation Model, GAN
 ## GAN 
 - DCGAN
 - Conditional GAN (CGAN)
-- 3D GAN (작업중)
+- 3D GAN 
 
 ## Aproved GAN 
 - WGAN 
