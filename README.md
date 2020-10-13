@@ -24,7 +24,8 @@ Auto Encoder, Generation Model, GAN
 - VAE(변분 오토 인코더)
 
 ## UNET 
-- Image Translation UNET 
+- UNET
+- ResUNET
 
 ## GAN 
 - DCGAN
@@ -36,8 +37,10 @@ Auto Encoder, Generation Model, GAN
 - LSGAN 
 - ACGAN 
 
-## Image Application with GAN (진행예정)
+## GAN Applications 
 - Age-cGAN 
 - Pix2Pix
 - SRGAN
 - CycleGAN
+
+## Segmentation
