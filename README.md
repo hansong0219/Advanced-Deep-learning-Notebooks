@@ -37,10 +37,12 @@ Auto Encoder, Generation Model, GAN
 - LSGAN 
 - ACGAN 
 
+##Cycle GAN
+- cycle GAN
+
 ## GAN Applications 
 - Age-cGAN 
 - Pix2Pix
 - SRGAN
-- CycleGAN
 
 ## Segmentation
