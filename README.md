@@ -33,8 +33,8 @@ Auto Encoder, Generation Model, GAN
 
 ## Aproved GAN 
 - WGAN 
-- LSGAN (작업중)
-- ACGAN (작업중)
+- LSGAN 
+- ACGAN 
 
 ## Image Application with GAN (진행예정)
 - Age-cGAN 
