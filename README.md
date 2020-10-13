@@ -24,7 +24,7 @@ Auto Encoder, Generation Model, GAN
 - VAE(변분 오토 인코더)
 
 ## UNET 
-- Image Translation UNET (data set 을 찾는중)
+- Image Translation UNET 
 
 ## GAN 
 - DCGAN
