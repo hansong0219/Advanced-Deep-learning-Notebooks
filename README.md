@@ -39,7 +39,7 @@ Auto Encoder, Generation Model, GAN
 
 ## Cross-Domain Application 
 - Pix2Pix
-- cycle GAN
+- ycle GAN
 
 ## GAN Applications 
 - Age-cGAN 
