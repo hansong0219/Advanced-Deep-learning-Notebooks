@@ -42,6 +42,7 @@ Auto Encoder, Generation Model, GAN
 - Cycle GAN
 
 ## GAN Applications 
+- 3DGAN
 - Age-cGAN 
 - SRGAN
 
