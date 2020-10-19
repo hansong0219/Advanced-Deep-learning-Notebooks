@@ -25,6 +25,8 @@ Cycle GAN 은 pix2pix 와 달리 훈련이미지를 작업에 맞추어 정렬�
 하지만 Cycle GAN의 경우 꼭 훈련데이터에서 미리 쌍을 이룰 필요가 없어, 화풍이나, 다양한 이미지 변환의 어플리케이션에 활용될 수 있다.
 
 Cycle GAN 의 예제는 다음 과 같이 구성했다.
-- UNET 생성기를 사용하는 Coloration
-- UNET 생성기를 사용하는 MNIST - SVHN 데이터 세트 변환
-- ResNet 생성기를 사용하는 반고흐 그림
+- UNET 생성기
+Coloration
+MNIST - SVHN 데이터 세트 변환
+- ResNet 생성기 
+반고흐의 그림으로 스타일 변환 
