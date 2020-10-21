@@ -45,5 +45,5 @@ Auto Encoder, Generation Model, GAN
 - 3DGAN
 - Age-cGAN 
 - SRGAN
-
-## Segmentation
+- ProGAN 
+- Style GAN 
