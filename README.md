@@ -43,7 +43,7 @@ Auto Encoder, Generation Model, GAN
 
 ## GAN Applications 
 - 3DGAN
-- Age-cGAN 
-- SRGAN
+- SAGAN
+- BigGAN
 - ProGAN 
 - Style GAN 
